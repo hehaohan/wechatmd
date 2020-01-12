@@ -1,4 +1,4 @@
-const DEFAULT_CONTENT = 
+const DEFAULT_CONTENT =
 `# 示例文章：Google 搜索的即时自动补全功能究竟是如何“工作”的？
 > Google 搜索**自动补全功能**的强大，相信不少朋友都能感受到，它帮助我们更快地“补全”我们所要输入的搜索关键字。那么，它怎么知道我们要输入什么内容？它又是如何工作的？在这篇文章里，我们一起来看看。
 
@@ -90,10 +90,10 @@ Google 拥有专门设计的系统，可以自动捕获不适当的预测结果�
 
 ---
 
-欢迎关注我的公众号“**Doocs开源社区**”，原创技术文章第一时间推送。
+欢迎扫码加我为好友，共同交流变成技术。
 
 <center>
-    <img src="https://imgkr.cn-bj.ufileos.com/1092dc45-e817-4bb0-82b0-2b2b4826ccf2.gif" style="width: 100px;">
+    <img src="https://jasonhe91.gitee.io/pic1/qrcode-for-doocs.jpg" style="width: 100px;">
 </center>
 
 `
