@@ -90,7 +90,7 @@ Google 拥有专门设计的系统，可以自动捕获不适当的预测结果�
 
 ---
 
-欢迎扫码加我为好友，共同交流变成技术。
+欢迎扫码加我为好友，共同交流编程技术。
 
 <center>
     <img src="https://jasonhe91.gitee.io/pic1/qrcode-for-doocs.jpg" style="width: 100px;">
